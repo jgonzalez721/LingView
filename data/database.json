@@ -58,18 +58,18 @@
       "source_filetype": "FLEx"
     },
     "7c44ce2c-4585-4ee3-a333-71c3c0634125": {
-      "timed": false,
+      "timed": true,
       "story ID": "7c44ce2c-4585-4ee3-a333-71c3c0634125",
       "title": {
         "_default": "DES_2014_DAS_coletor_de_sauvas_noturnas_correct"
       },
       "media": {
-        "audio": "",
+        "audio": "DES_2014_DAS_coletor_de_sauvas_noturnas_Daniel Salazar_MZ17.wav",
         "video": ""
       },
       "languages": [],
       "date_created": "",
-      "date_uploaded": "7/12/2018",
+      "date_uploaded": "7/11/2018",
       "source": {
         "_default": ""
       },
@@ -84,29 +84,29 @@
       "source_filetype": "ELAN"
     },
     "b1d68818-d963-4ef8-97dd-9e551791d152": {
-      "timed": false,
+      "timed": true,
       "story ID": "b1d68818-d963-4ef8-97dd-9e551791d152",
       "title": {
-        "_default": "copy2_DES_2014_EDC_homem_ea_mulher_diabo"
+        "_default": "The Man and the Devil Woman (Homem e a Mulher Diabo)"
       },
       "media": {
         "audio": "",
-        "video": ""
+        "video": "des_2014_edm_homem_ea_mulher_diabo_mp4.mp4"
       },
       "languages": [],
-      "date_created": "",
-      "date_uploaded": "7/12/2018",
+      "date_created": "00/00/2014",
+      "date_uploaded": "7/11/2018",
       "source": {
-        "_default": ""
+        "_default": "Desano Fieldwork Trip 2014"
       },
-      "description": "",
-      "genre": "",
-      "author": "",
-      "glosser": "",
+      "description": "The Man and the Devil Woman",
+      "genre": "Fiction",
+      "author": "Unknown",
+      "glosser": "Multiple Contributors",
       "speakers": [
         "Edmilson Dias Carrasquilla"
       ],
-      "xml_file_name": "copy2_DES_2014_EDC_homem_ea_mulher_diabo.eaf",
+      "xml_file_name": "copy_DES_2014_EDC_homem_ea_mulher_diabo.eaf",
       "source_filetype": "ELAN"
     }
   },
@@ -2015,18 +2015,18 @@
     },
     {
       "metadata": {
-        "timed": false,
+        "timed": true,
         "story ID": "7c44ce2c-4585-4ee3-a333-71c3c0634125",
         "title": {
           "_default": "DES_2014_DAS_coletor_de_sauvas_noturnas_correct"
         },
         "media": {
-          "audio": "",
+          "audio": "DES_2014_DAS_coletor_de_sauvas_noturnas_Daniel Salazar_MZ17.wav",
           "video": ""
         },
         "languages": [],
         "date_created": "",
-        "date_uploaded": "7/12/2018",
+        "date_uploaded": "7/11/2018",
         "source": {
           "_default": ""
         },
@@ -14145,29 +14145,29 @@
     },
     {
       "metadata": {
-        "timed": false,
+        "timed": true,
         "story ID": "b1d68818-d963-4ef8-97dd-9e551791d152",
         "title": {
-          "_default": "copy2_DES_2014_EDC_homem_ea_mulher_diabo"
+          "_default": "The Man and the Devil Woman (Homem e a Mulher Diabo)"
         },
         "media": {
           "audio": "",
-          "video": ""
+          "video": "des_2014_edm_homem_ea_mulher_diabo_mp4.mp4"
         },
         "languages": [],
-        "date_created": "",
-        "date_uploaded": "7/12/2018",
+        "date_created": "00/00/2014",
+        "date_uploaded": "7/11/2018",
         "source": {
-          "_default": ""
+          "_default": "Desano Fieldwork Trip 2014"
         },
-        "description": "",
-        "genre": "",
-        "author": "",
-        "glosser": "",
+        "description": "The Man and the Devil Woman",
+        "genre": "Fiction",
+        "author": "Unknown",
+        "glosser": "Multiple Contributors",
         "speakers": [
           "Edmilson Dias Carrasquilla"
         ],
-        "xml_file_name": "copy2_DES_2014_EDC_homem_ea_mulher_diabo.eaf",
+        "xml_file_name": "copy_DES_2014_EDC_homem_ea_mulher_diabo.eaf",
         "source_filetype": "ELAN",
         "tier IDs": {
           "T1": {
