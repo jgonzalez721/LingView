@@ -60,22 +60,22 @@
     "timed": true,
     "story ID": "7c44ce2c-4585-4ee3-a333-71c3c0634125",
     "title": {
-      "_default": "DES_2014_DAS_coletor_de_sauvas_noturnas_correct"
+      "_default": "The Nocturnal Sauvas Collector"
     },
     "media": {
       "audio": "DES_2014_DAS_coletor_de_sauvas_noturnas_Daniel Salazar_MZ17.wav",
       "video": ""
     },
     "languages": [],
-    "date_created": "",
+    "date_created": "00/00/2014",
     "date_uploaded": "7/11/2018",
     "source": {
-      "_default": ""
+      "_default": "Desano Fieldwork Trip 2014"
     },
     "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
+    "genre": "Fiction",
+    "author": "Unknown",
+    "glosser": "Multiple Contributors",
     "speakers": [
       "Daniel Salazar"
     ],
@@ -89,8 +89,8 @@
       "_default": "The Man and the Devil Woman (Homem e a Mulher Diabo)"
     },
     "media": {
-      "audio": "",
-      "video": "des_2014_edm_homem_ea_mulher_diabo_mp4.mp4"
+      "audio": "des_2014_edm_homem_ea_mulher_diabo.wav",
+      "video": ""
     },
     "languages": [],
     "date_created": "00/00/2014",
@@ -106,6 +106,58 @@
       "Edmilson Dias Carrasquilla"
     ],
     "xml_file_name": "copy_DES_2014_EDC_homem_ea_mulher_diabo.eaf",
+    "source_filetype": "ELAN"
+  },
+  "5f52bbf0-623c-4c1f-8f8e-3a90c46247b0": {
+    "timed": false,
+    "story ID": "5f52bbf0-623c-4c1f-8f8e-3a90c46247b0",
+    "title": {
+      "_default": "Boys at the Party (Rapazes na Festa)"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "00/00/2014",
+    "date_uploaded": "7/13/2018",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "Fiction",
+    "author": "Unknown",
+    "glosser": "",
+    "speakers": [
+      "Javier Vasquez Carrasquilla"
+    ],
+    "xml_file_name": "SIR_2014_JVC_rapazes_na_festa.eaf",
+    "source_filetype": "ELAN"
+  },
+  "2dde283a-6204-45f1-a6d6-b9f0aacb07c6": {
+    "timed": false,
+    "story ID": "2dde283a-6204-45f1-a6d6-b9f0aacb07c6",
+    "title": {
+      "_default": "DES_2014_SSV_cacador_eo_baixinho"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "7/16/2018",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "sergio zalasar"
+    ],
+    "xml_file_name": "DES_2014_SSV_cacador_eo_baixinho.eaf",
     "source_filetype": "ELAN"
   }
 }

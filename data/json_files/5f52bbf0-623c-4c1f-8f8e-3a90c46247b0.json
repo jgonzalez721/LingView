@@ -1,0 +1,5992 @@
+{
+  "metadata": {
+    "timed": false,
+    "story ID": "5f52bbf0-623c-4c1f-8f8e-3a90c46247b0",
+    "title": {
+      "_default": "Boys at the Party (Rapazes na Festa)"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "00/00/2014",
+    "date_uploaded": "7/13/2018",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "Fiction",
+    "author": "Unknown",
+    "glosser": "",
+    "speakers": [
+      "Javier Vasquez Carrasquilla"
+    ],
+    "xml_file_name": "SIR_2014_JVC_rapazes_na_festa.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "T1": {
+        "name": "JVC_sir",
+        "subdivided": false
+      },
+      "T2": {
+        "name": "Español",
+        "subdivided": false
+      },
+      "T3": {
+        "name": "Portugues",
+        "subdivided": false
+      },
+      "T4": {
+        "name": "English",
+        "subdivided": false
+      },
+      "T5": {
+        "name": "Morphemes",
+        "subdivided": true
+      },
+      "T6": {
+        "name": "Morph Gloss",
+        "subdivided": true
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Javier Vasquez Carrasquilla",
+        "tier": "T1"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 12366,
+      "end_time_ms": 19058,
+      "num_slots": 6,
+      "text": " suñaro ariyurota pera mahsaka ariñura arĩtiayʉ erokere",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "Hubo una vez dos personajes que estaban por allí"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "Havia uma vez dois personagens que estavam laá"
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "There were once two characters that were over there"
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " suñaro "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ariyurota "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pera "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "mahsaka "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "ariñura arĩtiayʉ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "erokere"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 19692,
+      "end_time_ms": 22117,
+      "num_slots": 7,
+      "text": "ãsu peyaru irirã asũ peyaru iririnʉ arĩyʉro",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "así como estamos tomando chicha estaban tomando chicha"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "assim como estamos bebendo chicha eles estavam bebendo chicha"
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "just as we are drinking chicha they were drinking chicha"
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ãsu "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "peyaru"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "irirã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "asũ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "peyaru "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "iririnʉ"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": " arĩyʉro"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 23311,
+      "end_time_ms": 28698,
+      "num_slots": 13,
+      "text": "isa perã isa basi game tiãfẽñʉ̃ra mʉʉ irika mʉʉ gahigʉre daha irika ariñura",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 13,
+              "value": "entre ellos, los dos obligados a tomar. el otro tambien dería lo mismo"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 13,
+              "value": "entre eles, os dois forçados a tomar. o outro também faria o mesmo"
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 13,
+              "value": "between them, the two forced to drink. the other would say the same. "
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "isa "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "perã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "isa "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "basi "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "game "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "tiãfẽñʉ̃ra "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "mʉʉ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "irika "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "mʉʉ "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "gahigʉre "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "daha"
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "irika "
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": "ariñura"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 29491,
+      "end_time_ms": 34823,
+      "num_slots": 12,
+      "text": " ìrĩ pama isa warã iriñũra pama perã nomẽ ariñũra dahã wa'arã daha",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": "entonces estaban saliendo y encontraron dos mujeres"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": "então, eles estão saindo e encontraram duas mulheres"
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": "At that time, they were exiting and found two women"
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " ìrĩ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "pama "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "isa "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "warã "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "iriñũra "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "pama "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "perã "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "nomẽ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "ariñũra "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "dahã "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "wa'arã "
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "daha"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 36162,
+      "end_time_ms": 39432,
+      "num_slots": 9,
+      "text": "mʉʉ  igore tʉ̃ãdũhpiyũgʉ wakã arĩñʉrã yʉʉ mʉʉ pʉrʉ wagʉra",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": "arrastre primero usted yo voy después de usted"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": "aarastre primeiro você, eu vou atrás de você"
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": "drag her first, I go after you"
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mʉʉ  "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": " igore "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "tʉ̃ãdũhpiyũgʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "wakã "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "arĩñʉrã"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "yʉʉ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "mʉʉ"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "pʉrʉ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "wagʉra"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 40830,
+      "end_time_ms": 43010,
+      "num_slots": 8,
+      "text": "gahigʉ ehãdoa yʉpʉ̃ daha gãhĩgõrẽ ñeayʉhpʉ ĩgʉ̃ gahpʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 8,
+              "value": "él otro centaba y él otro cogía a la otra"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 8,
+              "value": "ele outra centaba e a outra pegou a outra"
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 8,
+              "value": "one was sitting while the other was picking up"
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "gahigʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ehãdoa "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "yʉpʉ̃"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "daha "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "gãhĩgõrẽ"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ñeayʉhpʉ"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "gahpʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 43152,
+      "end_time_ms": 44602,
+      "num_slots": 6,
+      "text": "gãhigõ gahpʉrẽ gãmẽĩ irĩ yʉhʉpʉ dahã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "estaba queriendo ala otra tambien"
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "he was interested in the other one "
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "gãhigõ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "gahpʉrẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "gãmẽĩ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": " irĩ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "yʉhʉpʉ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "dahã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 45751,
+      "end_time_ms": 47602,
+      "num_slots": 7,
+      "text": "aʉ arĩ pãmã mĩsõrĩ tĩã ñʉ̃rã dãhã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "arĩ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pãmã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "mĩsõrĩ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "tĩã "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ñʉ̃rã "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "dãhã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 48958,
+      "end_time_ms": 54245,
+      "num_slots": 9,
+      "text": "aʉ yʉ'ʉdẽ wa'ʉrã ãrĩyʉhpʉ yʉgorãkã bayabiri... bayabigʉ ãrĩkoa ãrĩyuhpʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aʉ"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "yʉ'ʉdẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "wa'ʉrã"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": " ãrĩyʉhpʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": " yʉgorãkã "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "bayabiri... "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "bayabigʉ"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": " ãrĩkoa "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "ãrĩyuhpʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 55152,
+      "end_time_ms": 60982,
+      "num_slots": 12,
+      "text": "aʉ ãrĩ wa'yuhpʉ ĩgʉ̃ õnõhõge corea tubeohã wãrõ corea tubeohã wa'koãsiayuhpʉ pamã ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aʉ  "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ãrĩ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "wa'yuhpʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "õnõhõge "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "corea "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "tubeohã "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "wãrõ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "corea "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "tubeohã "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "wa'koãsiayuhpʉ "
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "pamã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 61823,
+      "end_time_ms": 65159,
+      "num_slots": 6,
+      "text": "ĩgʉ bayamã biriarogora gahigʉ ĩgʉ̃rẽ õmãwãgãrĩsiayuhpʉta",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ĩgʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "bayamã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "biriarogora "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "gahigʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "ĩgʉ̃rẽ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "õmãwãgãrĩsiayuhpʉta"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 65892,
+      "end_time_ms": 66761,
+      "num_slots": 3,
+      "text": "eiǃ ãrĩbeoyuhpʉ ĩgʉ̃rẽ ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "eiǃ"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": " ãrĩbeoyuhpʉ"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": " ĩgʉ̃rẽ "
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 67069,
+      "end_time_ms": 73266,
+      "num_slots": 15,
+      "text": "õgãpʉ ñãbeoñãka ãrĩyuhpʉ ĩgahpʉ ñemʉnõhõ miẽ ãrĩrĩ? gobege sãñmĩ ãrĩgʉ̃ pama õmãha nʉ̃gã ĩgʉ̃rẽ serabeohãyuhpʉ pama",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õgãpʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ñãbeoñãka "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ãrĩyuhpʉ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": " ĩgahpʉ"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "ñemʉnõhõ"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "miẽ ãrĩrĩ? "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "gobege "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "sãñmĩ"
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": " ãrĩgʉ̃ "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "pama "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "õmãha"
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "nʉ̃gã"
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": " ĩgʉ̃rẽ "
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": "serabeohãyuhpʉ"
+            },
+            {
+              "start_slot": 14,
+              "end_slot": 15,
+              "value": " pama"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": ""
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": ""
+            },
+            {
+              "start_slot": 14,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 73882,
+      "end_time_ms": 78006,
+      "num_slots": 4,
+      "text": "õmãhanʉ̃gã ĩgʉ̃rẽ ñabeoyuhpʉ ahpoanaǃ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õmãhanʉ̃gã "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ĩgʉ̃rẽ"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ñabeoyuhpʉ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ahpoanaǃ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 78096,
+      "end_time_ms": 81148,
+      "num_slots": 5,
+      "text": "ĩmiẽtãmẽrã yẽadĩmĩẽta ñãhãrĩhãñũmĩyẽ ãrĩyʉhpʉtã gẽgẽ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ĩmiẽtãmẽrã"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": " yẽadĩmĩẽta "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ñãhãrĩhãñũmĩyẽ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ãrĩyʉhpʉtã"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "gẽgẽ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 81761,
+      "end_time_ms": 83193,
+      "num_slots": 3,
+      "text": "arĩ wagʉãyʉhpʉ gãhĩgʉdahã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "arĩ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "wagʉãyʉhpʉ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "gãhĩgʉdahã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 83996,
+      "end_time_ms": 87782,
+      "num_slots": 10,
+      "text": "wããnĩha ĩgʉrẽ gãmĩbʉrĩyʉhpʉ yʉʉ mʉrẽ ñẽĩgõrarẽ nãcĩrĩ gãmĩgʉrĩ arĩyʉhpʉ ĩgʉrẽ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "wããnĩha "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ĩgʉrẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "gãmĩbʉrĩyʉhpʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "yʉʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": " mʉrẽ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ñẽĩgõrarẽ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "nãcĩrĩ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "gãmĩgʉrĩ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "arĩyʉhpʉ"
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": " ĩgʉrẽ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 88795,
+      "end_time_ms": 91968,
+      "num_slots": 10,
+      "text": "ẽhãdoãñʉ̃ra dahã dʉhpãtʉrĩ bãyãrã wãñũrã gahigʉ ĩgʉ̃rẽ gãmĩbu iriyupʉ pamã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ẽhãdoãñʉ̃ra "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "dahã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "dʉhpãtʉrĩ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "bãyãrã  "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "wãñũrã"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "gahigʉ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ĩgʉ̃rẽ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "gãmĩbu"
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "iriyupʉ "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "pamã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 93076,
+      "end_time_ms": 95903,
+      "num_slots": 6,
+      "text": " bayado'o eheadoa gõrẽrã wa'a ñarĩñũrã daha",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " bayado'o "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "eheadoa "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "gõrẽrã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "wa'a "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "ñarĩñũrã "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "daha"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 96782,
+      "end_time_ms": 102089,
+      "num_slots": 14,
+      "text": "naka gʉrafirã ãr̃yuhpʉ ĩgʉ̃rẽ. haʉǃ õ mʉ'ʉ gõrẽbeoka dapa yʉ'ʉ gʉrafigʉ wa'gʉya dapa ãrĩyupʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 14,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 14,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 14,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "naka "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "gʉrafirã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ãr̃yuhpʉ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": " ĩgʉ̃rẽ."
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "haʉǃ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "õ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "mʉ'ʉ"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": " gõrẽbeoka  "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "dapa "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "yʉ'ʉ"
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "gʉrafigʉ "
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "wa'gʉya "
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": "dapa "
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": "ãrĩyupʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": ""
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 103249,
+      "end_time_ms": 109591,
+      "num_slots": 12,
+      "text": "õmãhanʉgã gõrẽdo, õmãhanʉgã ĩgʉrẽ ĩgʉ̃ gõrẽnĩ, ĩgʉ̃gahpʉ gõrẽdutariahãyuhpʉ, õmãhanʉgã ĩgʉ̃rẽ õmãhanʉgãdoyuhpʉ daha",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õmãhanʉgã "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "gõrẽdo, "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "õmãhanʉgã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ĩgʉrẽ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "gõrẽnĩ, "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ĩgʉ̃gahpʉ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "gõrẽdutariahãyuhpʉ,"
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": " õmãhanʉgã "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "ĩgʉ̃rẽ "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "õmãhanʉgãdoyuhpʉ "
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "daha"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 109934,
+      "end_time_ms": 114896,
+      "num_slots": 11,
+      "text": "õgapʉ ĩgʉ̃ diure muhũbeo, õgapʉ gʉrabepʉro ĩgʉ̃re esramẽmuhũhãyuhpʉ gõrẽmẽmuhũhãyuhpʉta ĩgʉ̃rẽ daha",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õgapʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "diure "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "muhũbeo, "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "õgapʉ"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "gʉrabepʉro"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ĩgʉ̃re"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "esramẽmuhũhãyuhpʉ"
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": " gõrẽmẽmuhũhãyuhpʉta "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": " ĩgʉ̃rẽ"
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "daha"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 115934,
+      "end_time_ms": 121272,
+      "num_slots": 10,
+      "text": "õmãhanʉgã ĩgʉrẽ ãrĩyʉhpʉ pamã ahpũana ĩmĩẽtamẽra ĩgʉ gʉrãbẽrẽtã yẽsõhamĩyẽ arĩyʉhpʉtã ĩgʉrẽ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õmãhanʉgã"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ĩgʉrẽ"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ãrĩyʉhpʉ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "(pamã) ahpũana"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": " ĩmĩẽtamẽra "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ĩgʉ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "gʉrãbẽrẽtã "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "yẽsõhamĩyẽ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "arĩyʉhpʉtã "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": " ĩgʉrẽ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 121785,
+      "end_time_ms": 125176,
+      "num_slots": 7,
+      "text": "õmahanʉgã ĩgʉrẽ arĩyʉhpʉ daha, dʉpãturĩ ñahãñũra dãhã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õmahanʉgã"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": " ĩgʉrẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "arĩyʉhpʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "daha,"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": " dʉpãturĩ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ñahãñũra "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "dãhã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 126131,
+      "end_time_ms": 128519,
+      "num_slots": 7,
+      "text": "ĩgʉ,nõmẽ arĩdõñũra ĩsãyara nõmẽ pẽrãnõmẽ pãmã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ĩgʉ,"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "nõmẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "arĩdõñũra "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ĩsãyara "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "nõmẽ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "pẽrãnõmẽ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "pãmã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 129595,
+      "end_time_ms": 133297,
+      "num_slots": 7,
+      "text": "arĩjõpẽ gʉʉ sipẽjoreta ñʉahãmĩgʉ ar̃ĩñũrãta ĩgʉrẽ pãmã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "arĩjõpẽ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "gʉʉ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "sipẽjoreta "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ñʉahãmĩgʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "ar̃ĩñũrãta "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ĩgʉrẽ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "pãmã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 134193,
+      "end_time_ms": 135854,
+      "num_slots": 4,
+      "text": "igʉ pãmã ãrĩyʉhpʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "igʉ"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "igʉ"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pãmã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ãrĩyʉhpʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 136477,
+      "end_time_ms": 142619,
+      "num_slots": 10,
+      "text": "ãrĩbĩrãbʉ yãã gʉrãbemẽrẽta yẽabʉ yʉʉ, nõmẽõrẽ yẽgʉyãbʉ yʉʉ ãrĩyʉhpʉ ĩgʉgãhpʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ãrĩbĩrãbʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "yãã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "gʉrãbemẽrẽta "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "yẽabʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "yʉʉ,"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": " nõmẽõrẽ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "yẽgʉyãbʉ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "yʉʉ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "ãrĩyʉhpʉ"
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": " ĩgʉgãhpʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 143359,
+      "end_time_ms": 144570,
+      "num_slots": 3,
+      "text": "ãrĩ wakʉã yʉhpʉdã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ãrĩ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "wakʉã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "yʉhpʉdã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 144716,
+      "end_time_ms": 149539,
+      "num_slots": 12,
+      "text": "ñãhãñũrã pãmã ĩsã wãyãrĩbĩkẽ pãmã bãyãrã ĩrĩñʉ̃rã ĩgʉrẽ ĩsa bayãbãtĩã ĩrĩnũrã dãhã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ñãhãñũrã "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "pãmã"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": " ĩsã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "wãyãrĩbĩkẽ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "pãmã "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "bãyãrã"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": " ĩrĩñʉ̃rã"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": " ĩgʉrẽ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "ĩsa "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "bayãbãtĩã "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "ĩrĩnũrã "
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "dãhã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 150618,
+      "end_time_ms": 153266,
+      "num_slots": 7,
+      "text": "ĩsã dõãnũrã ĩsã ĩrĩ mẽhãrã ĩrĩnũrã pãmã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ĩsã "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "dõãnũrã"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ĩsã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": " ĩrĩ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "mẽhãrã "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ĩrĩnũrã "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "pãmã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 154502,
+      "end_time_ms": 160569,
+      "num_slots": 11,
+      "text": "mẽhã, pãmã ĩrĩdõ wĩrĩñũrã nãkã gʉrãfĩrã ãrĩñũrã pẽrãkẽtã, õnõhõ gãhĩgʉ,õñõhõ gãgĩgʉ ẽhãdoãñũrã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mẽhã, "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "pãmã  "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ĩrĩdõ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "wĩrĩñũrã "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "nãkã "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "gʉrãfĩrã"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": " ãrĩñũrã "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "pẽrãkẽtã, "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "õñõhõ "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "gãgĩgʉ "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "ẽhãdoãñũrã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 161268,
+      "end_time_ms": 165427,
+      "num_slots": 9,
+      "text": "headoa ahgʉenã yʉ'ʉ tãmẽrã wõãberõ kãrĩnãyẽ pãrũ ãrĩyʉhpʉ ĩgʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "headoa "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ahgʉenã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "yʉ'ʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "tãmẽrã "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "wõãberõ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "kãrĩnãyẽ"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": " pãrũ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "ãrĩyʉhpʉ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "ĩgʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 166120,
+      "end_time_ms": 171056,
+      "num_slots": 10,
+      "text": "yʉtãmẽrã yõhõpa ãrĩrõta yʉ'ʉ yõhõporebʉ ĩrĩkãrĩnã ãrĩyʉhpʉ, mʉdẽ wãraberĩ ãrĩyũhpʉ ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yʉtãmẽrã  "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "yõhõpa "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ãrĩrõta "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "yʉ'ʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "yõhõporebʉ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ĩrĩkãrĩnã "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ãrĩyʉhpʉ, "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "mʉdẽ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "wãraberĩ "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "ãrĩyũhpʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 172029,
+      "end_time_ms": 175524,
+      "num_slots": 9,
+      "text": "ĩrĩbirãbʉ yʉ'ʉ wõãrĩrẽ yʉʉ nĩãrĩgãrẽ ĩrĩãbʉ yʉ'ʉ mẽhãgʉ ĩrĩkarĩnã yʉʉ ãrĩyũhpʉ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ĩrĩbirãbʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "(yʉ'ʉ) "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "wõãrĩrẽ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "nĩãrĩgãrẽ (yʉʉ) "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": " ĩrĩãbʉ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "(yʉ'ʉ) mẽhãgʉ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ĩrĩkarĩnã "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "yʉʉ "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "ãrĩyũhpʉ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 175901,
+      "end_time_ms": 178482,
+      "num_slots": 7,
+      "text": "yohoboa irikarina yʉ'gapʉ ãrĩyupʉ gahigʉ ĩgʉ̃ merãmãhãrẽ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yohoboa"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": " irikarina "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "yʉ'gapʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ãrĩyupʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "gahigʉ "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "merãmãhãrẽ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 179324,
+      "end_time_ms": 184974,
+      "num_slots": 4,
+      "text": "iri yohoporebeodoyuhpʉ ĩgʉ̃ pou...siriri...",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "iri "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "yohoporebeodoyuhpʉ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "pou...siriri..."
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 186009,
+      "end_time_ms": 190112,
+      "num_slots": 5,
+      "text": "ahponãǃ sĩĩtamẽrãrẽ gʉrabemiẽ wãr irita'beohãñumãye",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahponãǃ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "sĩĩtamẽrãrẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "gʉrabemiẽ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "wãr"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": " irita'beohãñumãye"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 190829,
+      "end_time_ms": 197885,
+      "num_slots": 15,
+      "text": "ãrĩ gahigʉ eheadoayuhpʉ daha gõrẽbeo ss...ǃ ahpoaǃ mʉ'tamerã nomeõbʉrota ãrĩkua nomẽta erasũ gõrẽmãye ãrĩyuhpʉ ĩgʉ̃rẽ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ãrĩ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "gahigʉ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "eheadoayuhpʉ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "daha "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "gõrẽbeo "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ss...ǃ"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": " ahpoaǃ "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "mʉ'tamerã "
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "nomeõbʉrota "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "ãrĩkua "
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "nomẽta "
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "(erasũ) "
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": "gõrẽmãye "
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": "ãrĩyuhpʉ "
+            },
+            {
+              "start_slot": 14,
+              "end_slot": 15,
+              "value": "ĩgʉ̃rẽ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": ""
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": ""
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": ""
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": ""
+            },
+            {
+              "start_slot": 14,
+              "end_slot": 15,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 198997,
+      "end_time_ms": 202142,
+      "num_slots": 5,
+      "text": "õmãhadoa ĩgʉ̃ pama ĩgʉ̃ gʉrafiadabu...",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "õmãhadoa "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pama"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": " ĩgʉ̃ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "gʉrafiadabu.."
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 202420,
+      "end_time_ms": 208172,
+      "num_slots": 10,
+      "text": "yuhkʉgʉ peabeodoyuhpʉ pama yuhkʉgʉ peabeo gʉrabe pama duweabeobu iriyuhpʉ pama",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yuhkʉgʉ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "peabeodoyuhpʉ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pama "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "yuhkʉgʉ "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "peabeo "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "gʉrabe "
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "pama "
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "duweabeobu"
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": " iriyuhpʉ "
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "pama"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": ""
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": ""
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": ""
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 208924,
+      "end_time_ms": 211793,
+      "num_slots": 6,
+      "text": "ĩgʉ̃ pama ĩgʉ̃ yohopore piadeabumiẽge pabiamẽhã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "pama "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ĩgʉ̃ "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "yohopore "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "piadeabumiẽge "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "pabiamẽhã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 212292,
+      "end_time_ms": 215857,
+      "num_slots": 6,
+      "text": "ahpu..ǃ ñemʉnõhõmiẽ toare yʉ're ãrĩbuadi iribuge pabiamahã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahpu..ǃ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ñemʉnõhõmiẽ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "toare "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "(yʉ're) ãrĩbuadi "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "iribuge "
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "pabiamahã"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 216112,
+      "end_time_ms": 219576,
+      "num_slots": 4,
+      "text": "ahpuǃ yʉ'tamerã yohopageta ã...ũ...ǃ",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahpuǃ "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "yʉ'tamerã "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "yohopageta "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ã...ũ...ǃ"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 220138,
+      "end_time_ms": 224273,
+      "num_slots": 6,
+      "text": "iripa wãrõ ba'mariãhã pia pama kãrĩãhãyuhpʉ pama",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "iripa "
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "wãrõ "
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ba'mariãhã "
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "pia "
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "pama (__)"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "kãrĩãhãyuhpʉ ( pama)"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": ""
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": ""
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": ""
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": ""
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "T1",
+      "start_time_ms": 225286,
+      "end_time_ms": 225921,
+      "num_slots": 1,
+      "text": "iropãta ãrã",
+      "dependents": [
+        {
+          "tier": "T2",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T3",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T4",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "tier": "T5",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "iropãta (ãrã)"
+            }
+          ]
+        },
+        {
+          "tier": "T6",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
